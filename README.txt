@@ -1,13 +1,12 @@
-# Application-of-machine-learning-Neural-Networks
-This project consists of two files, one for data analysis and exploration, and the other for preprocessing and implementation.
+This project consists of two files, one for data analysis and exploration, and other for preprocessing and implementation.
 
 Dataset: 
 Caltech-UCSD Birds-200-2011: 200 categories of birds
 Download link:
 https://data.caltech.edu/tindfiles/serve/1239ea37-e132-42ee-8c09-c383bb54e7ff/
 
-Overall requirements: 
-python3, Jupyter Notebook/Google COLAB, cv2, keras, sklearn, tensorflow, matplotlib, sys, pandas, os, NumPy
+Overall reuirements: 
+python3, Jupyter Notebook/Google COLAB, cv2, keras, sklearn, tensorflow, matplotlib, sys, pandas, os, numpy
 
 This is a descriptive analysis package. Import the CUB_200_2011 file according to the path.
 1. Install the required libraries.
